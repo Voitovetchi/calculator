@@ -1,7 +1,6 @@
 package logic;
 
 import exceptions.NotValidExpressionException;
-import logic.Calculator;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
